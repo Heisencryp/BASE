@@ -1,2 +1,3 @@
 # BASE
 based
+This is a test file
